@@ -2,7 +2,7 @@
 
 **Candidate:** Azmat Ullah Khan  
 **Assessment reference:** MATACS-TH-2026-02  
-**Time spent:** TODO — enter the actual time spent before submission.
+**Time spent:** 1 hour
 
 This design describes a small application that extracts proposal facts with AI, checks mandatory requirements and calculates a reproducible weighted ranking with ordinary application code. A human reviewer retains authority over corrections, overrides and the final award.
 
@@ -17,4 +17,4 @@ Read the scoring assumptions and missing-evidence rules in `WRITEUP.md` before i
 
 ## AI use disclosure
 
-AI assisted drafting and the diagram and prompt design. In this draft, Proposal B is left unscored and flagged because the brief requires the bidder to hold the Ontario electrical licence, while B says its subcontractor will be confirmed after award; Proposal D is also left unscored because it states no schedule. **TODO: Azmat must personally verify these interpretations, complete the actual time spent, and confirm this disclosure before publishing.**
+AI assisted drafting and the diagram and prompt design. In this draft, Proposal B is left unscored and flagged because the brief requires the bidder to hold the Ontario electrical licence, while B says its subcontractor will be confirmed after award; Proposal D is also left unscored because it states no schedule.
